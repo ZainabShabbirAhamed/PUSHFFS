@@ -6,6 +6,7 @@ def example(arg1,arg2):
 
 arg1=10
 arg2=20
+arg4=100
 
 output=example(arg2,arg1)
 print(output)
